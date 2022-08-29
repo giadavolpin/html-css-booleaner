@@ -2,8 +2,9 @@
     width: 200px;
     height: 200px;
 }
-.header{
-    background-image:C:\Users\Utente\Documents\boolean\29.8\html-css-booleaner\img\pattern.png;
+header{
+    background-image:url("./img/pattern.png");
+    background-color: rgb(67, 67, 240);
 }
 .azzurro{
     color: rgb(24, 145, 189);
@@ -14,7 +15,7 @@
 .sottolineato{
     background-color: yellow;
 }
-.thead{
+thead{
 background-color: blue;
 }
 .azzur{
