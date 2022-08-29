@@ -16,8 +16,13 @@
 }
 .thead{
 background-color: blue;
-
 }
 .azzur{
     background-color: rgb(57, 200, 228);
+}
+.gray{
+    color: gray;
+}
+imm{
+    border: 20px;
 }
